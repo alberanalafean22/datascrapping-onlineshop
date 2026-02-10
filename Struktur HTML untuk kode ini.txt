@@ -1,0 +1,13 @@
+Link utama untuk dapat linknya: https://www.tokopedia.com/search?fcity=101&st=product&q=Kota%20Solok
+
+contoh masuk ke 1 link dari kotak page: https://www.tokopedia.com/dapurmama-tara/kerupuk-tara-lado-masiak-khas-kota-solok-1729998406149311303?extParam=ivf%3Dfalse%26keyword%3Dkota+solok%26search_id%3D2026020607200311B9842E0A271F3482Q1%26src%3Dsearch&t_id=1770361509889&t_st=6&t_pp=search_result&t_efo=search_pure_goods_card&t_ef=goods_search&t_sm=&t_spt=search_result
+
+
+strutkur html: 
+
+link   > <img alt="product-image" src="https://p16-images-common-sign-sg.tokopedia-static.net/tos-maliva-i-o3syd03w52-us/911707becbf04d268ea9a5951ce94f79~tplv-o3syd03w52-resize-jpeg:200:200.webp?lk3s=97278606&amp;x-expires=1770366004&amp;x-signature=7x6z9bwLmTil00GFQfiUtnx3Ex0%3D&amp;x-signature-webp=7x6z9bwLmTil00GFQfiUtnx3Ex0%3D&amp;ect=4g" class="H078hzBk9mrpZdtHF5MqWA== wSt-NCwsL186UdS6D-IpAg==" decoding="async" crossorigin="anonymous">
+
+buka per isi dalam link:
+nama usaha: <h2 data-unify="Typography" class="css-1ceqk3d-unf-heading e1qvo2ff2">dapurmama tara</h2>
+
+kota: <h2 data-unify="Typography" class="css-793nib-unf-heading e1qvo2ff2">Dikirim dari <b>Kota Solok</b></h2>
